@@ -1,5 +1,7 @@
 # Ai Face Gallery 
+
  The Ai Face Gallery is used to find the image of the person from a large dataset use ML and Deeplearn concept by puthon Language
+
 ## Quick Test
 
 ### Step 1: Install Dependencies
@@ -16,6 +18,7 @@ pip install -r "requirement.txt"
 
 ```
 git clone https://github.com/Shriram7777p/Ai-Face-Gallery-.git
+
 cd Ai-Face-Gallery-
 ```
 
